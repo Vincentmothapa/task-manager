@@ -1,0 +1,4 @@
+admin, adm1n
+orefile, vincent
+manager, m@nager
+vincent, orefile
